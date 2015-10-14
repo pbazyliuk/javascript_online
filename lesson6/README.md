@@ -124,8 +124,8 @@ console.log( anClean(arr) ); // 'воз,киборг,корсет' или 'ЗО�
 Из каждой группы анаграмм должно остаться только одно слово, не важно какое.
 
 ## CodeWars
-[Return the Missing Element](http://www.codewars.com/kata/return-the-missing-element)
-[Add Property to Every Object in Array](http://www.codewars.com/kata/add-property-to-every-object-in-array)
-[Find Your Villain Name](http://www.codewars.com/kata/find-your-villain-name)
-[Use reduce() to calculate the sum of the values in an array](http://www.codewars.com/kata/use-reduce-to-calculate-the-sum-of-the-values-in-an-array)
-[Take a Ten Minute Walk](http://www.codewars.com/kata/take-a-ten-minute-walk)
+1. [Return the Missing Element](http://www.codewars.com/kata/return-the-missing-element)
+2. [Add Property to Every Object in Array](http://www.codewars.com/kata/add-property-to-every-object-in-array)
+3. [Find Your Villain Name](http://www.codewars.com/kata/find-your-villain-name)
+4. [Use reduce() to calculate the sum of the values in an array](http://www.codewars.com/kata/use-reduce-to-calculate-the-sum-of-the-values-in-an-array)
+5. [Take a Ten Minute Walk](http://www.codewars.com/kata/take-a-ten-minute-walk)
