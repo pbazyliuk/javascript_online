@@ -90,4 +90,3 @@ result = ['link', 'menu__item', 'menu', 'header', 'footer', 'sidebar', ... ];
 2. [detect-pangram](http://www.codewars.com/kata/detect-pangram)
 3. [multiples-of-3-and-5](http://www.codewars.com/kata/multiples-of-3-and-5)
 4. [count-characters-in-your-string](http://www.codewars.com/kata/count-characters-in-your-string)
-5. [typer-dot-js](http://www.codewars.com/kata/typer-dot-js)
