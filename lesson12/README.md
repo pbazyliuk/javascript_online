@@ -1,6 +1,6 @@
 # Домашнее задание. JS. Урок 12.
 
-## Пиьменно
+## Пиcьменно
 
 1. [Вывод чисел каждые 100мс](http://learn.javascript.ru/task/output-numbers-100ms)
 2. [Вывод чисел каждые 100мс, через setTimeout](http://learn.javascript.ru/task/output-numbers-100ms-settimeout)
