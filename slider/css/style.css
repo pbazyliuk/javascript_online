@@ -25,6 +25,8 @@ body {
     height: 529px;
 
     white-space: nowrap;
+
+    transition: margin .5s ease-out;
 }
 
 .slider__navigation {
