@@ -5,8 +5,8 @@
     <title>To Do</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
     <link rel="stylesheet" href="todo.css">
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-    <script src="todo1.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="todo.js"></script>
 </head>
 <body>
 
@@ -21,7 +21,7 @@
                 <div class="panel-heading">Add task:</div>
                 <div class="panel-body">
                     <input type="text" name="task" class="task-form__text"/>
-                    <input type="submit" value="Add" class="btn btn-primary" disabled/>
+                    <input type="submit" value="Add" class="btn btn-primary"/>
                 </div>
             </div>
         </form>
@@ -29,21 +29,14 @@
 
     <table class="table table-striped">
         <thead>
-        <tr>
-            <th class="table__id">#</th>
-            <th class="table__note">Что сделать</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-        </tr>
+            <tr>
+                <th class="table__id">#</th>
+                <th class="table__note">Что сделать</th>
+                <th>&nbsp;</th>
+                <th>&nbsp;</th>
+            </tr>
         </thead>
         <tbody class="table__body">
-
-            <tr>
-                <th>1</th>
-                <td>Text</td>
-                <td><button type="button" class="btn btn-info">&#8593;</button></td>
-                <td><button type="button" class="btn btn-danger">☓</button></td>
-            </tr>
         </tbody>
     </table>
 </section>
