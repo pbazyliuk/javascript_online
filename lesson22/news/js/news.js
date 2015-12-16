@@ -48,6 +48,8 @@ $(function() {
         })
         .success(this.onGetData.bind(this))
         .error(function (error) {
+
+                // TODO: make error message
             console.log(error);
         });
     };
